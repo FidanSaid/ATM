@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  merchandise_name: MyString
+  amount: 9.99
+  account_id: 1
+  account_id: 
+
+two:
+  merchandise_name: MyString
+  amount: 9.99
+  account_id: 1
+  account_id: 
